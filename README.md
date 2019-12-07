@@ -1,2 +1,2 @@
 # kokoa_clone
- kakao clone
+ kakao Desktop App Clone
